@@ -4,8 +4,9 @@ If u need help, send me a dm on instagram @avsolem
 
 https://osu.sayobot.cn/download/ for original proyect
 
-![SayoDevice 02C ](https://i.imgur.com/ELQR4pK.jpeg) 
 ![SayoDevice 02C set](https://i.imgur.com/XjTkJ5C.jpeg) 
+![SayoDevice 02C ](https://i.imgur.com/ELQR4pK.jpeg) 
+
 
 ![step 1](https://i.imgur.com/9KVC4IO.png)
 ![step 2](https://i.imgur.com/z5G372B.png)
