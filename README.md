@@ -2,6 +2,8 @@
 Configurador para Teclado SayoDevice 02C 
 If u need help, send me a dm on instagram @avsolem
 
+DOWLOAD HERE https://github.com/Avzolem/MiniKeyboard-SayoDevice-02C-Config/raw/main/Configurador%20de%20Teclado%20Mini%20Sayo.zip 🚀
+
 https://osu.sayobot.cn/download/ for original proyect
 
 ![SayoDevice 02C set](https://i.imgur.com/XjTkJ5C.jpeg) 
